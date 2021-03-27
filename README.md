@@ -26,46 +26,45 @@ In these examples, punctuation has been added in (any output haikus will be lowe
 
 
 **Trained from Onoto Watanna's A Japanese Blossom:**
-> There were only two
-> clerks left in your house - pluck out
+> There were only two /
+> clerks left in your house - pluck out /
 > one branch, one flower.
 
 **Trained from J.K Rowling's Harry Potter:**
-> Met a dragon trying
-> to find out how to get past
+> Met a dragon trying /
+> to find out how to get past /
 > Fluffy, and he could.
 
 **Trained from T.S. Eliot's The Waste Land:**
-> Warm covering earth
-> in forgetful snow feeding
+> Warm covering earth /
+> in forgetful snow feeding /
 > a little patience here.
 
 **Trained from Walt Whitman's Leaves of Grass:**
-> In myself I could
-> look with the old: the eighty
+> In myself I could /
+> look with the old: the eighty /
 > third year of meteors.
 
 **Trained from Agatha Christie's The Secret Adversary:**
-> Of it: it's a toss
-> up, but I can t help it if
+> Of it: it's a toss /
+> up, but I can t help it if /
 > you want to know how.
 
 
 **Trained from Emanuel Kant's The Critique of Pure Reason:**
-> a logical place
-> upon this point of time and
+> a logical place /
+> upon this point of time and /
 > thus, the conception.
 
 **Trained from collection of texts:**
-
-> Disturbed if the
-> rough wave foameth and angrily
+> Disturbed if the /
+> rough wave foameth and angrily /
 > resisteth its keel.
 
-> Mishmash. That is the
-> world itself and the way from
+> Mishmash. That is the /
+> world itself and the way from /
 > fame must be but it.
 
-> Of the world: is the
-> world weary of the highest
+> Of the world: is the /
+> world weary of the highest / 
 > hope - To soar away?

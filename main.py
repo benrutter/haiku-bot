@@ -9,6 +9,6 @@ if __name__ == '__main__':
         text = open('text/' + text_file).read()
         train_text += text
 
-    haiku_bot = HaikuBot(0)
+    haiku_bot = HaikuBot()
     haiku_bot.train(text)
     haiku = print(haiku_bot.make_haiku())
