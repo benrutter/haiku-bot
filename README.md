@@ -4,7 +4,7 @@
 
 haiku-bot is a pretty simple script attemping to automatically generate original haikus using *restricted Markov chains*.
 
-That sounds fancy, but basically all it means is given n number of words (i.e. "I want"), what is the most likely word to come next in a given text.
+That sounds fancy, but basically all it means is given n number of words (i.e. "I want"), what is the most likely word to come next in a given text ("I want pizza").
 
 In order to try and make a haiku, rather that just text, we need to impose some restrictions, mainly syllable based, so rather than **what's the next most likely word**, instead we can ask **what's the next most likely word with the number of syllables needed to make this a haiku**.
 
