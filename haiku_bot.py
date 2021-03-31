@@ -1,8 +1,6 @@
 import re
 import random
 import nltk
-import pronouncing
-from nltk.corpus import cmudict
 
 class HaikuBot():
     """Class to generate haikus using restricted markov chains"""
